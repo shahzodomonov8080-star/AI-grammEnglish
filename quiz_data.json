@@ -1,0 +1,2884 @@
+[
+  {
+    "question": "GPS nimaga ishlatiladi?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Audio"
+      },
+      {
+        "id": "B",
+        "text": "Lokatsiyani aniqlash"
+      },
+      {
+        "id": "C",
+        "text": "Kamera"
+      },
+      {
+        "id": "D",
+        "text": "Sensor"
+      }
+    ],
+    "correct": "B"
+  },
+  {
+    "question": "TimePickerDialog foydalanuvchiga quyidagilarni amalga oshirishga imkon beradi?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Jadval yaratish"
+      },
+      {
+        "id": "B",
+        "text": "Rasm ochish"
+      },
+      {
+        "id": "C",
+        "text": "Sanani belgilash"
+      },
+      {
+        "id": "D",
+        "text": "Vaqtni tanlash"
+      }
+    ],
+    "correct": "D"
+  },
+  {
+    "question": "WINDOWS OT asosida yaratilgan mobil OT ni belgilang?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Windows XP"
+      },
+      {
+        "id": "B",
+        "text": "Windows Phone"
+      },
+      {
+        "id": "C",
+        "text": "Windows Vista"
+      },
+      {
+        "id": "D",
+        "text": "Windows 11"
+      }
+    ],
+    "correct": "B"
+  },
+  {
+    "question": "StatefulWidget nima?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Holati o'zgarmaydigan widget"
+      },
+      {
+        "id": "B",
+        "text": "Holati o'zgaradigan widget"
+      },
+      {
+        "id": "C",
+        "text": "Kamera widgeti"
+      },
+      {
+        "id": "D",
+        "text": "Sensor widgeti"
+      }
+    ],
+    "correct": "B"
+  },
+  {
+    "question": "Android Studioda Button tugmasi bosilganda Buttonni ishga tushuvchi buyruq to'g'ri keltirilgan qatorni toping?",
+    "options": [
+      {
+        "id": "A",
+        "text": "android:onClick"
+      },
+      {
+        "id": "B",
+        "text": "android:textStyle"
+      },
+      {
+        "id": "C",
+        "text": "android:textColor"
+      },
+      {
+        "id": "D",
+        "text": "android:text"
+      }
+    ],
+    "correct": "A"
+  },
+  {
+    "question": "Android Studioda qanday mahsulotlar yaratish mumkin?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Planshetlar uchun dasturlar"
+      },
+      {
+        "id": "B",
+        "text": "Barcha javoblar to'g'ri"
+      },
+      {
+        "id": "C",
+        "text": "Android televizorlar uchun dasturlar"
+      },
+      {
+        "id": "D",
+        "text": "Mobil telefonlar uchun dasturlar"
+      }
+    ],
+    "correct": "B"
+  },
+  {
+    "question": "iOS qaysi qurilmalarda ishlaydi?",
+    "options": [
+      {
+        "id": "A",
+        "text": "iPhone"
+      },
+      {
+        "id": "B",
+        "text": "Xiaomi"
+      },
+      {
+        "id": "C",
+        "text": "Oppo"
+      },
+      {
+        "id": "D",
+        "text": "Samsung"
+      }
+    ],
+    "correct": "A"
+  },
+  {
+    "question": "Quyidagilardan qaysi dasturlash tilida mobil dasturlash uchun freymvork mavjud emas?",
+    "options": [
+      {
+        "id": "A",
+        "text": "PHP"
+      },
+      {
+        "id": "B",
+        "text": "Python"
+      },
+      {
+        "id": "C",
+        "text": "JavaScript"
+      },
+      {
+        "id": "D",
+        "text": "Dart"
+      }
+    ],
+    "correct": "A"
+  },
+  {
+    "question": "Android Application Framework nima uchun xizmat qiladi?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Internetni o'chirish"
+      },
+      {
+        "id": "B",
+        "text": "Kamera ishlatish"
+      },
+      {
+        "id": "C",
+        "text": "Ilovalar uchun API taqdim etish"
+      },
+      {
+        "id": "D",
+        "text": "Sensor boshqarish"
+      }
+    ],
+    "correct": "C"
+  },
+  {
+    "question": "Widget nima?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Database jadvali"
+      },
+      {
+        "id": "B",
+        "text": "Internet protokoli"
+      },
+      {
+        "id": "C",
+        "text": "Sensor turi"
+      },
+      {
+        "id": "D",
+        "text": "Flutter UI elementi"
+      }
+    ],
+    "correct": "D"
+  },
+  {
+    "question": "APK formati qanday turdagi fayllarni saqlaydi?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Android dasturning build qilingan holati"
+      },
+      {
+        "id": "B",
+        "text": "Java tilida yozilgan dastur kodi"
+      },
+      {
+        "id": "C",
+        "text": "Dart tilida yozilgan dastur kodi"
+      },
+      {
+        "id": "D",
+        "text": "Android OS ning kutubxonasi"
+      }
+    ],
+    "correct": "A"
+  },
+  {
+    "question": "Apple mobil qurilmalari uchun ilovalar do'koni qanday nomlanadi?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Github"
+      },
+      {
+        "id": "B",
+        "text": "Android Market"
+      },
+      {
+        "id": "C",
+        "text": "App Store"
+      },
+      {
+        "id": "D",
+        "text": "Play Market"
+      }
+    ],
+    "correct": "C"
+  },
+  {
+    "question": "Hybrid ilovalar qaysi texnologiyalarda yoziladi?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Java va Kotlin"
+      },
+      {
+        "id": "B",
+        "text": "Swift"
+      },
+      {
+        "id": "C",
+        "text": "HTML, CSS, JavaScript"
+      },
+      {
+        "id": "D",
+        "text": "Python"
+      }
+    ],
+    "correct": "C"
+  },
+  {
+    "question": "Mobil operatsion tizimlar deganda nimani tushunasiz?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Ilovalarni boshqarish uchun zarur bo'lgan kutubxonalar to'plami"
+      },
+      {
+        "id": "B",
+        "text": "Mobil qurilmalar uchun mo'ljallangan onlayn xizmatlar"
+      },
+      {
+        "id": "C",
+        "text": "Android tizimining yadrosi"
+      },
+      {
+        "id": "D",
+        "text": "Mobil qurilmalarni boshqarish uchun mo'ljallangan tizimlar"
+      }
+    ],
+    "correct": "D"
+  },
+  {
+    "question": "Android Studioda oxirgi bir nechta loyihalarni ochish ketma-ketligi to'g'ri keltirilgan javobni belgilang?",
+    "options": [
+      {
+        "id": "A",
+        "text": "File → New → New Project"
+      },
+      {
+        "id": "B",
+        "text": "File → Open Recent"
+      },
+      {
+        "id": "C",
+        "text": "File → Open"
+      },
+      {
+        "id": "D",
+        "text": "File → New → Import Project"
+      }
+    ],
+    "correct": "B"
+  },
+  {
+    "question": "SQLite haqida quyidagilardan qaysi biri to'g'ri?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Android Studioning maxsus kutubxonasi"
+      },
+      {
+        "id": "B",
+        "text": "Ma'lumotlar bazasini boshqarish tizimi"
+      },
+      {
+        "id": "C",
+        "text": "Freymvork"
+      },
+      {
+        "id": "D",
+        "text": "Virtual server"
+      }
+    ],
+    "correct": "B"
+  },
+  {
+    "question": "Quyidagi muharrirlardan qaysi birida Android platformasi uchun dastur yozish mumkin?",
+    "options": [
+      {
+        "id": "A",
+        "text": "VS Code"
+      },
+      {
+        "id": "B",
+        "text": "Barcha javoblar to'g'ri"
+      },
+      {
+        "id": "C",
+        "text": "IntelliJ IDEA"
+      },
+      {
+        "id": "D",
+        "text": "Android Studio"
+      }
+    ],
+    "correct": "B"
+  },
+  {
+    "question": "Qaysi mobil operatsion tizimda ishlaydigan qurilmalar eng ko'p tarqalgan?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Android"
+      },
+      {
+        "id": "B",
+        "text": "iOS"
+      },
+      {
+        "id": "C",
+        "text": "BlackBerry OS"
+      },
+      {
+        "id": "D",
+        "text": "WebOS"
+      }
+    ],
+    "correct": "A"
+  },
+  {
+    "question": "HAL nimani anglatadi?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Hardware Access Language"
+      },
+      {
+        "id": "B",
+        "text": "Hardware Android Layer"
+      },
+      {
+        "id": "C",
+        "text": "Hardware Application Layer"
+      },
+      {
+        "id": "D",
+        "text": "Hardware Abstraction Layer"
+      }
+    ],
+    "correct": "D"
+  },
+  {
+    "question": "App Store qaysi kompaniyaga tegishli?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Google"
+      },
+      {
+        "id": "B",
+        "text": "Apple"
+      },
+      {
+        "id": "C",
+        "text": "Microsoft"
+      },
+      {
+        "id": "D",
+        "text": "IBM"
+      }
+    ],
+    "correct": "B"
+  },
+  {
+    "question": "Android Studioda yozilgan kodni qaysi brauzerlar orqali build qilib ko'rish mumkin?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Barcha javoblar to'g'ri"
+      },
+      {
+        "id": "B",
+        "text": "Yandex Browser, Opera"
+      },
+      {
+        "id": "C",
+        "text": "Chrome, Opera"
+      },
+      {
+        "id": "D",
+        "text": "Chrome, Mozilla Firefox"
+      }
+    ],
+    "correct": "A"
+  },
+  {
+    "question": "Android ilovalari qaysi formatda tarqatiladi?",
+    "options": [
+      {
+        "id": "A",
+        "text": "ZIP"
+      },
+      {
+        "id": "B",
+        "text": "DOC"
+      },
+      {
+        "id": "C",
+        "text": "EXE"
+      },
+      {
+        "id": "D",
+        "text": "APK"
+      }
+    ],
+    "correct": "D"
+  },
+  {
+    "question": "Android Studioda mantiqiy ma'lumotlar qaysi tip orqali e'lon qilinadi?",
+    "options": [
+      {
+        "id": "A",
+        "text": "float(double)"
+      },
+      {
+        "id": "B",
+        "text": "string"
+      },
+      {
+        "id": "C",
+        "text": "Boolean"
+      },
+      {
+        "id": "D",
+        "text": "int(integer)"
+      }
+    ],
+    "correct": "C"
+  },
+  {
+    "question": "IPA nima?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Kamera fayli"
+      },
+      {
+        "id": "B",
+        "text": "Internet fayli"
+      },
+      {
+        "id": "C",
+        "text": "iOS ilova fayli"
+      },
+      {
+        "id": "D",
+        "text": "Sensor fayli"
+      }
+    ],
+    "correct": "C"
+  },
+  {
+    "question": "Grafik interfeys bu?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Foydalanuvchining grafik interfeysi"
+      },
+      {
+        "id": "B",
+        "text": "Ichki rivojlanish muhiti"
+      },
+      {
+        "id": "C",
+        "text": "Operatsion tizim"
+      },
+      {
+        "id": "D",
+        "text": "Android dastur kodi fayli to'plangan"
+      }
+    ],
+    "correct": "A"
+  },
+  {
+    "question": "Button ustiga sichqoncha bilan bosilganda qaysi metod ishga tushadi?",
+    "options": [
+      {
+        "id": "A",
+        "text": "onPress (Pressed)"
+      },
+      {
+        "id": "B",
+        "text": "Bunday metod mavjud emas"
+      },
+      {
+        "id": "C",
+        "text": "onChange (Changed)"
+      },
+      {
+        "id": "D",
+        "text": "onCheck (Checked)"
+      }
+    ],
+    "correct": "A"
+  },
+  {
+    "question": "Activity natijasi foydalanuvchiga ko'ringanda chaqiriladi?",
+    "options": [
+      {
+        "id": "A",
+        "text": "onResume()"
+      },
+      {
+        "id": "B",
+        "text": "onCreate()"
+      },
+      {
+        "id": "C",
+        "text": "onStart()"
+      },
+      {
+        "id": "D",
+        "text": "onPause()"
+      }
+    ],
+    "correct": "C"
+  },
+  {
+    "question": "BLE nimani anglatadi?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Bluetooth Local Energy"
+      },
+      {
+        "id": "B",
+        "text": "Bluetooth Low Energy"
+      },
+      {
+        "id": "C",
+        "text": "Bluetooth Long Energy"
+      },
+      {
+        "id": "D",
+        "text": "Bluetooth Large Energy"
+      }
+    ],
+    "correct": "B"
+  },
+  {
+    "question": "Biometrik autentifikatsiya misoli qaysi?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Fingerprint"
+      },
+      {
+        "id": "B",
+        "text": "Login"
+      },
+      {
+        "id": "C",
+        "text": "Password"
+      },
+      {
+        "id": "D",
+        "text": "SMS kod"
+      }
+    ],
+    "correct": "A"
+  },
+  {
+    "question": "Android Studioda Flutterda dasturlash uchun qanday talablar mavjud?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Dart dasturlash tilining plaginini o'rnatish"
+      },
+      {
+        "id": "B",
+        "text": "Flutter freymvorkining plaginini o'rnatish"
+      },
+      {
+        "id": "C",
+        "text": "Flutter SDK ni o'rnatish va Pathni sozlash"
+      },
+      {
+        "id": "D",
+        "text": "Barcha javoblar to'g'ri"
+      }
+    ],
+    "correct": "D"
+  },
+  {
+    "question": "WebSocket nimaga xizmat qiladi?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Sensor ishlatish"
+      },
+      {
+        "id": "B",
+        "text": "Kamera ishlatish"
+      },
+      {
+        "id": "C",
+        "text": "Real-time aloqa"
+      },
+      {
+        "id": "D",
+        "text": "Database yaratish"
+      }
+    ],
+    "correct": "C"
+  },
+  {
+    "question": "Flutter freymvorki qaysi kompaniya tomonidan qo'llab-quvvatlanadi?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Yandex"
+      },
+      {
+        "id": "B",
+        "text": "Facebook"
+      },
+      {
+        "id": "C",
+        "text": "Google"
+      },
+      {
+        "id": "D",
+        "text": "Apple"
+      }
+    ],
+    "correct": "C"
+  },
+  {
+    "question": "GitHub nima?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Kamera platforma"
+      },
+      {
+        "id": "B",
+        "text": "Kod saqlash platformasi"
+      },
+      {
+        "id": "C",
+        "text": "Sensor platforma"
+      },
+      {
+        "id": "D",
+        "text": "Internet platforma"
+      }
+    ],
+    "correct": "B"
+  },
+  {
+    "question": "Navigator nimaga xizmat qiladi?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Sensor ishlatish"
+      },
+      {
+        "id": "B",
+        "text": "Ekranlar o'rtasida o'tish"
+      },
+      {
+        "id": "C",
+        "text": "Database boshqarish"
+      },
+      {
+        "id": "D",
+        "text": "Internet boshqarish"
+      }
+    ],
+    "correct": "B"
+  },
+  {
+    "question": "Android OS qaysi yilda chiqarilgan?",
+    "options": [
+      {
+        "id": "A",
+        "text": "2008"
+      },
+      {
+        "id": "B",
+        "text": "2012"
+      },
+      {
+        "id": "C",
+        "text": "2006"
+      },
+      {
+        "id": "D",
+        "text": "2010"
+      }
+    ],
+    "correct": "A"
+  },
+  {
+    "question": "Komponentaning tashqi chegarasida bo'sh joy qoldirish uchun qaysi atributdan foydalaniladi?",
+    "options": [
+      {
+        "id": "A",
+        "text": "context"
+      },
+      {
+        "id": "B",
+        "text": "padding"
+      },
+      {
+        "id": "C",
+        "text": "margin"
+      },
+      {
+        "id": "D",
+        "text": "background"
+      }
+    ],
+    "correct": "C"
+  },
+  {
+    "question": "GUI nima?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Dasturlash uchun kerakli modullar"
+      },
+      {
+        "id": "B",
+        "text": "Freymvork"
+      },
+      {
+        "id": "C",
+        "text": "Foydalanuvchi grafik interfeysi"
+      },
+      {
+        "id": "D",
+        "text": "Yuqoridagilardan hech qaysi biri"
+      }
+    ],
+    "correct": "C"
+  },
+  {
+    "question": "MainActivity.java faylidagi TextView ga matn kiritish uchun activity_main.xml dagi tugma uchun qanday funktsiya yozilgan?",
+    "options": [
+      {
+        "id": "A",
+        "text": "android:text = \"Salom\""
+      },
+      {
+        "id": "B",
+        "text": "android:layout_below"
+      },
+      {
+        "id": "C",
+        "text": "android:id"
+      },
+      {
+        "id": "D",
+        "text": "android:layout_width"
+      }
+    ],
+    "correct": "C"
+  },
+  {
+    "question": "Room nimaning ustiga qurilgan?",
+    "options": [
+      {
+        "id": "A",
+        "text": "SQLite"
+      },
+      {
+        "id": "B",
+        "text": "MongoDB"
+      },
+      {
+        "id": "C",
+        "text": "Hive"
+      },
+      {
+        "id": "D",
+        "text": "Firebase"
+      }
+    ],
+    "correct": "A"
+  },
+  {
+    "question": "Androidni kim ishlab chiqadi?",
+    "options": [
+      {
+        "id": "A",
+        "text": "IBM"
+      },
+      {
+        "id": "B",
+        "text": "Apple"
+      },
+      {
+        "id": "C",
+        "text": "Google"
+      },
+      {
+        "id": "D",
+        "text": "Microsoft"
+      }
+    ],
+    "correct": "C"
+  },
+  {
+    "question": "Android Virtual Device (AVD) ishga tushirish tartibini tanlang?",
+    "options": [
+      {
+        "id": "A",
+        "text": "APK faylini emulyatorga o'rnatish"
+      },
+      {
+        "id": "B",
+        "text": "SDK Manager ochiladi"
+      },
+      {
+        "id": "C",
+        "text": "Ma'lumotlarni o'chirishga o'tiladi"
+      },
+      {
+        "id": "D",
+        "text": "AVD ni ikki marta bosiladi yoki Start bosiladi"
+      }
+    ],
+    "correct": "D"
+  },
+  {
+    "question": "Komponentaning ichki chap chegarasidan bo'sh joy qoldirish uchun qaysi atributdan foydalaniladi?",
+    "options": [
+      {
+        "id": "A",
+        "text": "paddingLeft"
+      },
+      {
+        "id": "B",
+        "text": "paddingTop"
+      },
+      {
+        "id": "C",
+        "text": "paddingRight"
+      },
+      {
+        "id": "D",
+        "text": "paddingBottom"
+      }
+    ],
+    "correct": "A"
+  },
+  {
+    "question": "Scaffold widgeti nimaga xizmat qiladi?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Sensor ishlatish"
+      },
+      {
+        "id": "B",
+        "text": "Ilova sahifasi strukturasi"
+      },
+      {
+        "id": "C",
+        "text": "Internet ulash"
+      },
+      {
+        "id": "D",
+        "text": "Kamera ishlatish"
+      }
+    ],
+    "correct": "B"
+  },
+  {
+    "question": "Android Studioda kiritilgan matnni o'lchamini o'zgartirish uchun qaysi atributdan foydalaniladi?",
+    "options": [
+      {
+        "id": "A",
+        "text": "android:text=\"black\""
+      },
+      {
+        "id": "B",
+        "text": "android:textSize=\"25dp\""
+      },
+      {
+        "id": "C",
+        "text": "android:textStyle=\"bold\""
+      },
+      {
+        "id": "D",
+        "text": "android:textColor=\"#ffff\""
+      }
+    ],
+    "correct": "B"
+  },
+  {
+    "question": "Komponentaning ichki chegarasida bo'sh joy qoldirish uchun qaysi atributdan foydalaniladi?",
+    "options": [
+      {
+        "id": "A",
+        "text": "margin"
+      },
+      {
+        "id": "B",
+        "text": "background"
+      },
+      {
+        "id": "C",
+        "text": "context"
+      },
+      {
+        "id": "D",
+        "text": "padding"
+      }
+    ],
+    "correct": "D"
+  },
+  {
+    "question": "Android Studioda iOS spetsifikatsiyasiga doir maxsus sozlamalar qaysi katalogda saqlanadi?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Lib"
+      },
+      {
+        "id": "B",
+        "text": "iOS"
+      },
+      {
+        "id": "C",
+        "text": "Android"
+      },
+      {
+        "id": "D",
+        "text": "Test"
+      }
+    ],
+    "correct": "B"
+  },
+  {
+    "question": "Servis nima?",
+    "options": [
+      {
+        "id": "A",
+        "text": "UI komponent"
+      },
+      {
+        "id": "B",
+        "text": "Database"
+      },
+      {
+        "id": "C",
+        "text": "API"
+      },
+      {
+        "id": "D",
+        "text": "Fon rejimida ishlaydigan komponent"
+      }
+    ],
+    "correct": "D"
+  },
+  {
+    "question": "iOS platformasini qaysi kompaniya qo'llab-quvvatlab, rivojlantirib boradi?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Microsoft"
+      },
+      {
+        "id": "B",
+        "text": "Facebook"
+      },
+      {
+        "id": "C",
+        "text": "Apple"
+      },
+      {
+        "id": "D",
+        "text": "Tesla"
+      }
+    ],
+    "correct": "C"
+  },
+  {
+    "question": "MainActivity.java faylidagi button ga murojaat qilish uchun activity_main.xml dagi tugma uchun qanday funktsiya yozilgan?",
+    "options": [
+      {
+        "id": "A",
+        "text": "android:layout_width=\"wrap_content\""
+      },
+      {
+        "id": "B",
+        "text": "android:layout_below=\"@id/editText\""
+      },
+      {
+        "id": "C",
+        "text": "android:text=\"Tugma\""
+      },
+      {
+        "id": "D",
+        "text": "android:id=\"@id/button\""
+      }
+    ],
+    "correct": "D"
+  },
+  {
+    "question": "Flutterda SQLite ishlatish uchun qaysi paket ishlatiladi?",
+    "options": [
+      {
+        "id": "A",
+        "text": "dio"
+      },
+      {
+        "id": "B",
+        "text": "sqflite"
+      },
+      {
+        "id": "C",
+        "text": "provider"
+      },
+      {
+        "id": "D",
+        "text": "http"
+      }
+    ],
+    "correct": "B"
+  },
+  {
+    "question": "AbsoluteLayout va LinearLayout vazifasi nima?",
+    "options": [
+      {
+        "id": "A",
+        "text": "UI elementlarni joylashtirish"
+      },
+      {
+        "id": "B",
+        "text": "Sensor boshqarish"
+      },
+      {
+        "id": "C",
+        "text": "Kamera boshqarish"
+      },
+      {
+        "id": "D",
+        "text": "Internet boshqarish"
+      }
+    ],
+    "correct": "A"
+  },
+  {
+    "question": "APK nima?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Android ilova fayli (Android Package)"
+      },
+      {
+        "id": "B",
+        "text": "Kamera fayli"
+      },
+      {
+        "id": "C",
+        "text": "Internet fayli"
+      },
+      {
+        "id": "D",
+        "text": "Sensor fayli"
+      }
+    ],
+    "correct": "A"
+  },
+  {
+    "question": "Light sensor nimani o'lchaydi?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Harakat darajasini"
+      },
+      {
+        "id": "B",
+        "text": "Yorug'lik darajasini"
+      },
+      {
+        "id": "C",
+        "text": "Harorat darajasini"
+      },
+      {
+        "id": "D",
+        "text": "Bosim darajasini"
+      }
+    ],
+    "correct": "B"
+  },
+  {
+    "question": "Komponentaning tashqi o'ng chegarasidan bo'sh joy qoldirish uchun qaysi atributdan foydalaniladi?",
+    "options": [
+      {
+        "id": "A",
+        "text": "marginRight"
+      },
+      {
+        "id": "B",
+        "text": "marginBottom"
+      },
+      {
+        "id": "C",
+        "text": "marginTop"
+      },
+      {
+        "id": "D",
+        "text": "marginLeft"
+      }
+    ],
+    "correct": "A"
+  },
+  {
+    "question": "Quyidagi tillardan qaysi birida mobil ilovalar ishlab chiqish imkoni mavjud emas?",
+    "options": [
+      {
+        "id": "A",
+        "text": "PHP"
+      },
+      {
+        "id": "B",
+        "text": "Python"
+      },
+      {
+        "id": "C",
+        "text": "Java"
+      },
+      {
+        "id": "D",
+        "text": "Javascript"
+      }
+    ],
+    "correct": "A"
+  },
+  {
+    "question": "Obyektga vizual nom (matn) berish uchun qaysi atributga murojaat qilinadi?",
+    "options": [
+      {
+        "id": "A",
+        "text": "color"
+      },
+      {
+        "id": "B",
+        "text": "text"
+      },
+      {
+        "id": "C",
+        "text": "height"
+      },
+      {
+        "id": "D",
+        "text": "width"
+      }
+    ],
+    "correct": "B"
+  },
+  {
+    "question": "MaterialApp nimaga xizmat qiladi?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Flutter ilovasining asosiy konteyneri"
+      },
+      {
+        "id": "B",
+        "text": "Sensor boshqarish"
+      },
+      {
+        "id": "C",
+        "text": "Database boshqarish"
+      },
+      {
+        "id": "D",
+        "text": "Kamera ishlatish"
+      }
+    ],
+    "correct": "A"
+  },
+  {
+    "question": "MainActivity.java faylidagi \"button\" ga murojaat qilish uchun activity_main.xml dagi tugma uchun qanday funktsiya yozilgan?",
+    "options": [
+      {
+        "id": "A",
+        "text": "android:text = \"Tugma\""
+      },
+      {
+        "id": "B",
+        "text": "android:id = \"@id/button\""
+      },
+      {
+        "id": "C",
+        "text": "android:layout_width = \"wrap_content\""
+      },
+      {
+        "id": "D",
+        "text": "android:layout_below = \"@id/editText\""
+      }
+    ],
+    "correct": "B"
+  },
+  {
+    "question": "Repository nima?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Sensor ombori"
+      },
+      {
+        "id": "B",
+        "text": "Kamera ombori"
+      },
+      {
+        "id": "C",
+        "text": "Internet ombori"
+      },
+      {
+        "id": "D",
+        "text": "Kodlar saqlanadigan joy"
+      }
+    ],
+    "correct": "D"
+  },
+  {
+    "question": "Android Studioda tayyor bo'lgan kodni biron qurilmada ishga tushirish (build) uchun qaysi buyruq bosiladi?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Save (Ctrl S)"
+      },
+      {
+        "id": "B",
+        "text": "Run (Shift F10)"
+      },
+      {
+        "id": "C",
+        "text": "Open (Ctrl O)"
+      },
+      {
+        "id": "D",
+        "text": "Debug (Shift F9)"
+      }
+    ],
+    "correct": "B"
+  },
+  {
+    "question": "Quyidagi dialog oynalaridan qaysi biri Android tomonidan qo'llab-quvvatlanadi?",
+    "options": [
+      {
+        "id": "A",
+        "text": "AlertDialog"
+      },
+      {
+        "id": "B",
+        "text": "DatePickerDialog"
+      },
+      {
+        "id": "C",
+        "text": "TimePickerDialog"
+      },
+      {
+        "id": "D",
+        "text": "ProgressDialog"
+      }
+    ],
+    "correct": "A"
+  },
+  {
+    "question": "…- activity foydalanuvchiga ko'rinmay qolganida chaqiriladi?",
+    "options": [
+      {
+        "id": "A",
+        "text": "onRestart()"
+      },
+      {
+        "id": "B",
+        "text": "onDestroy()"
+      },
+      {
+        "id": "C",
+        "text": "onResume()"
+      },
+      {
+        "id": "D",
+        "text": "onStop()"
+      }
+    ],
+    "correct": "D"
+  },
+  {
+    "question": "AI nimani anglatadi?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Application Internet"
+      },
+      {
+        "id": "B",
+        "text": "Automatic Interface"
+      },
+      {
+        "id": "C",
+        "text": "Advanced Interface"
+      },
+      {
+        "id": "D",
+        "text": "Artificial Intelligence"
+      }
+    ],
+    "correct": "D"
+  },
+  {
+    "question": "Komponentaning tashqi yuqori chegarasidan bo'sh joy qoldirish uchun qaysi atributdan foydalaniladi?",
+    "options": [
+      {
+        "id": "A",
+        "text": "marginTop"
+      },
+      {
+        "id": "B",
+        "text": "marginBottom"
+      },
+      {
+        "id": "C",
+        "text": "marginLeft"
+      },
+      {
+        "id": "D",
+        "text": "marginRight"
+      }
+    ],
+    "correct": "A"
+  },
+  {
+    "question": "WorkManager nimaga ishlatiladi?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Sensor ishlatish"
+      },
+      {
+        "id": "B",
+        "text": "Background ishlar (Orqa fondagi vazifalar)"
+      },
+      {
+        "id": "C",
+        "text": "UI chizish"
+      },
+      {
+        "id": "D",
+        "text": "Kamera ishlatish"
+      }
+    ],
+    "correct": "B"
+  },
+  {
+    "question": "Funksiya o'zi chaqirilgan moduldan qabul qilib oladigan qiymatlar nima deb ataladi?",
+    "options": [
+      {
+        "id": "A",
+        "text": "protocol"
+      },
+      {
+        "id": "B",
+        "text": "method"
+      },
+      {
+        "id": "C",
+        "text": "class"
+      },
+      {
+        "id": "D",
+        "text": "argument"
+      }
+    ],
+    "correct": "D"
+  },
+  {
+    "question": "Android Studioda boshqa dasturlash muharrirlarida yaratilgan loyihani import qilish ketma-ketligi to'g'ri keltirilgan javobni belgilang?",
+    "options": [
+      {
+        "id": "A",
+        "text": "File » New » Import Project"
+      },
+      {
+        "id": "B",
+        "text": "File » Open recent » Project_name"
+      },
+      {
+        "id": "C",
+        "text": "File » Open"
+      },
+      {
+        "id": "D",
+        "text": "File » New » New Project"
+      }
+    ],
+    "correct": "C"
+  },
+  {
+    "question": "Push notification nima?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Sensor signal"
+      },
+      {
+        "id": "B",
+        "text": "Kamera signal"
+      },
+      {
+        "id": "C",
+        "text": "Bluetooth signal"
+      },
+      {
+        "id": "D",
+        "text": "Serverdan yuborilgan xabar"
+      }
+    ],
+    "correct": "D"
+  },
+  {
+    "question": "Drift qanday database?",
+    "options": [
+      {
+        "id": "A",
+        "text": "SQL asosidagi Flutter DB"
+      },
+      {
+        "id": "B",
+        "text": "NoSQL"
+      },
+      {
+        "id": "C",
+        "text": "XML DB"
+      },
+      {
+        "id": "D",
+        "text": "Graph DB"
+      }
+    ],
+    "correct": "A"
+  },
+  {
+    "question": "FusedLocationProvider nima uchun ishlatiladi?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Kamera"
+      },
+      {
+        "id": "B",
+        "text": "Bluetooth"
+      },
+      {
+        "id": "C",
+        "text": "Sensor"
+      },
+      {
+        "id": "D",
+        "text": "Lokatsiyani aniqlash"
+      }
+    ],
+    "correct": "D"
+  },
+  {
+    "question": "Galereya ko'rinishi nima?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Dasturning qo'shimcha xususiyatlarini ochib beradigan menyu"
+      },
+      {
+        "id": "B",
+        "text": "Tarkibiy qismlarni bir-biriga ulash uchun ishlatiladi"
+      },
+      {
+        "id": "C",
+        "text": "Ekranda rasmlarni navbati bilan ko'rsatish uchun foydalaniladi"
+      },
+      {
+        "id": "D",
+        "text": "Joriy faoliyatda operatsiyalarni bajarish uchun zarur bo'lgan buyruqlarni tushuntiradi"
+      }
+    ],
+    "correct": "C"
+  },
+  {
+    "question": "\"Mobil ilova\" atamasi qanday ilovalarga nisbatan ishlatiladi?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Linux OT da ishlovchi ilovalar"
+      },
+      {
+        "id": "B",
+        "text": "Web interfeysda ishlovchi ilovalar"
+      },
+      {
+        "id": "C",
+        "text": "Desktop interfeysda ishlovchi ilovalar"
+      },
+      {
+        "id": "D",
+        "text": "Mobil platformalarda ishlovchi ilovalar"
+      }
+    ],
+    "correct": "D"
+  },
+  {
+    "question": "Dunyodagi birinchi smartfon qaysi?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Samsung Galaxy"
+      },
+      {
+        "id": "B",
+        "text": "Motorola Razr"
+      },
+      {
+        "id": "C",
+        "text": "IBM Simon"
+      },
+      {
+        "id": "D",
+        "text": "Nokia 3310"
+      }
+    ],
+    "correct": "C"
+  },
+  {
+    "question": "Android servis turlari nechta?",
+    "options": [
+      {
+        "id": "A",
+        "text": "3 ta (Foreground, Background, Bound)"
+      },
+      {
+        "id": "B",
+        "text": "2 ta"
+      },
+      {
+        "id": "C",
+        "text": "4 ta"
+      },
+      {
+        "id": "D",
+        "text": "5 ta"
+      }
+    ],
+    "correct": "A"
+  },
+  {
+    "question": "…– bu komponentalarni ma'lum o'lchamlar va oraliqlar asosida joylashtirish imkoniyatini yaratadi?",
+    "options": [
+      {
+        "id": "A",
+        "text": "AbsoluteLayout"
+      },
+      {
+        "id": "B",
+        "text": "TableLayout"
+      },
+      {
+        "id": "C",
+        "text": "FrameLayout"
+      },
+      {
+        "id": "D",
+        "text": "LinearLayout"
+      }
+    ],
+    "correct": "D"
+  },
+  {
+    "question": "Toast sinfining maqsadi nima?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Xabarni saqlash uchun"
+      },
+      {
+        "id": "B",
+        "text": "Ma'lumotlar saralash uchun ishlatiladi"
+      },
+      {
+        "id": "C",
+        "text": "Ma'lum vaqtdan keyin xabarnomani ko'rsatish uchun foydalaniladi"
+      },
+      {
+        "id": "D",
+        "text": "Menyu yaratish sifatida ishlatiladi"
+      }
+    ],
+    "correct": "C"
+  },
+  {
+    "question": "BroadcastReceiver nimaga xizmat qiladi?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Kamera ishlatish"
+      },
+      {
+        "id": "B",
+        "text": "Video yozish"
+      },
+      {
+        "id": "C",
+        "text": "Tizim hodisalarini qabul qilish"
+      },
+      {
+        "id": "D",
+        "text": "Internet ulash"
+      }
+    ],
+    "correct": "C"
+  },
+  {
+    "question": "android:layout_below=\"@id/imageView\" ushbu buyruq qanday amalni bajaradi?",
+    "options": [
+      {
+        "id": "A",
+        "text": "imageView komponentasiga nom beradi"
+      },
+      {
+        "id": "B",
+        "text": "Kiritiladigan komponentalarni imageViewga rasm ko'rinishida joylashtiradi"
+      },
+      {
+        "id": "C",
+        "text": "Kiritiladigan komponentalarni imageView komponentasidan pastda joylashtiradi"
+      },
+      {
+        "id": "D",
+        "text": "Kiritiladigan komponentani imageView komponentasiga almashtiradi"
+      }
+    ],
+    "correct": "C"
+  },
+  {
+    "question": "Sozlamalar bu – …",
+    "options": [
+      {
+        "id": "A",
+        "text": "Media fayllarini audio, video va rasm sifatida saqlash"
+      },
+      {
+        "id": "B",
+        "text": "Ma'lumotlar \"o'tkazib yuborilgan qo'ng'iroqlar\" ro'yxati"
+      },
+      {
+        "id": "C",
+        "text": "Qurilma ma'lumotlarini sozlamalar va parametrlarda saqlash tizimi"
+      },
+      {
+        "id": "D",
+        "text": "Aloqa ma'lumotlarini saqlash boshqaruvi"
+      }
+    ],
+    "correct": "C"
+  },
+  {
+    "question": "Android qaysi yadro asosida ishlaydi?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Solaris"
+      },
+      {
+        "id": "B",
+        "text": "Linux"
+      },
+      {
+        "id": "C",
+        "text": "Unix"
+      },
+      {
+        "id": "D",
+        "text": "Windows"
+      }
+    ],
+    "correct": "B"
+  },
+  {
+    "question": "Androidda Google Maps xizmatidan foydalanish uchun qaysi kutubxonadan foydalaniladi?",
+    "options": [
+      {
+        "id": "A",
+        "text": "android.gms.maps.MapFragment"
+      },
+      {
+        "id": "B",
+        "text": "android.gms.AppFragment"
+      },
+      {
+        "id": "C",
+        "text": "androidx.appcompat.app.AppCompatActivity"
+      },
+      {
+        "id": "D",
+        "text": "google.android.Fragment"
+      }
+    ],
+    "correct": "A"
+  },
+  {
+    "question": "Firebase Firestore qanday turdagi database?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Graph"
+      },
+      {
+        "id": "B",
+        "text": "Relational"
+      },
+      {
+        "id": "C",
+        "text": "XML"
+      },
+      {
+        "id": "D",
+        "text": "NoSQL"
+      }
+    ],
+    "correct": "D"
+  },
+  {
+    "question": "Android Studioda kerakli kutubxona va modullar qaysi komanda bilan chaqiriladi?",
+    "options": [
+      {
+        "id": "A",
+        "text": "extends"
+      },
+      {
+        "id": "B",
+        "text": "class"
+      },
+      {
+        "id": "C",
+        "text": "run"
+      },
+      {
+        "id": "D",
+        "text": "import"
+      }
+    ],
+    "correct": "D"
+  },
+  {
+    "question": "Symbian OS qaysi telefonlarda ishlatilgan?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Nokia"
+      },
+      {
+        "id": "B",
+        "text": "Google Pixel"
+      },
+      {
+        "id": "C",
+        "text": "Apple"
+      },
+      {
+        "id": "D",
+        "text": "Xiaomi"
+      }
+    ],
+    "correct": "A"
+  },
+  {
+    "question": "iOS OT haqida to'g'ri ta'rif berilgan javobni belgilang?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Xavfsizlikning yuqori darajasi"
+      },
+      {
+        "id": "B",
+        "text": "Sifat va barqarorlik"
+      },
+      {
+        "id": "C",
+        "text": "Barcha javoblar to'g'ri"
+      },
+      {
+        "id": "D",
+        "text": "Betakror dizayn, qulay interfeys"
+      }
+    ],
+    "correct": "C"
+  },
+  {
+    "question": "Mobil ilovalarda ma'lumot saqlash tizimi nima?",
+    "options": [
+      {
+        "id": "A",
+        "text": "UI"
+      },
+      {
+        "id": "B",
+        "text": "Database"
+      },
+      {
+        "id": "C",
+        "text": "Server"
+      },
+      {
+        "id": "D",
+        "text": "API"
+      }
+    ],
+    "correct": "B"
+  },
+  {
+    "question": "Android Studioda qilinayotgan mobil ilova loyihasida .idea katalogida qanday ma'lumotlar saqlanadi?",
+    "options": [
+      {
+        "id": "A",
+        "text": "iOS ga oid kodlar"
+      },
+      {
+        "id": "B",
+        "text": "Android maxsus (native) kodlari"
+      },
+      {
+        "id": "C",
+        "text": "Muharrir dasturi (editor) sozlamalari"
+      },
+      {
+        "id": "D",
+        "text": "Flutter yangilanishiga oid metama'lumotlar"
+      }
+    ],
+    "correct": "C"
+  },
+  {
+    "question": "… buttonning maxsus turi hisoblanib, ikki xil holatda bo'lishi mumkin: checked yoki unchecked?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Radio"
+      },
+      {
+        "id": "B",
+        "text": "Text"
+      },
+      {
+        "id": "C",
+        "text": "CheckBox"
+      },
+      {
+        "id": "D",
+        "text": "Image"
+      }
+    ],
+    "correct": "C"
+  },
+  {
+    "question": "Expanded widgeti nimaga xizmat qiladi?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Internetni kengaytirish"
+      },
+      {
+        "id": "B",
+        "text": "Sensor kengaytirish"
+      },
+      {
+        "id": "C",
+        "text": "Kamera kengaytirish"
+      },
+      {
+        "id": "D",
+        "text": "Bo'sh joyni to'ldirish"
+      }
+    ],
+    "correct": "D"
+  },
+  {
+    "question": "Zamonaviy smartfonlar quyidagi qaysi funksiyalarga ega?",
+    "options": [
+      {
+        "id": "A",
+        "text": "GPS, Voice Call"
+      },
+      {
+        "id": "B",
+        "text": "Touch Screen, Media Player"
+      },
+      {
+        "id": "C",
+        "text": "Wi-Fi, Bluetooth"
+      },
+      {
+        "id": "D",
+        "text": "Barcha javoblar to'g'ri"
+      }
+    ],
+    "correct": "D"
+  },
+  {
+    "question": "Androidning birinchi telefoni qaysi?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Motorola"
+      },
+      {
+        "id": "B",
+        "text": "Nexus"
+      },
+      {
+        "id": "C",
+        "text": "HTC Dream (T-Mobile G1)"
+      },
+      {
+        "id": "D",
+        "text": "Samsung Galaxy"
+      }
+    ],
+    "correct": "C"
+  },
+  {
+    "question": "Quyidagilardan GUI elementlarini belgilang?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Image, RadioButton"
+      },
+      {
+        "id": "B",
+        "text": "Text, Slider"
+      },
+      {
+        "id": "C",
+        "text": "Barcha javoblar to'g'ri"
+      },
+      {
+        "id": "D",
+        "text": "Button, CheckBox"
+      }
+    ],
+    "correct": "C"
+  },
+  {
+    "question": "ListView nimaga xizmat qiladi?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Internet ulash"
+      },
+      {
+        "id": "B",
+        "text": "Sensor ishlatish"
+      },
+      {
+        "id": "C",
+        "text": "Ro'yxat ko'rsatish"
+      },
+      {
+        "id": "D",
+        "text": "Kamera ishlatish"
+      }
+    ],
+    "correct": "C"
+  },
+  {
+    "question": "Fon rangi qaysi atribut va qiymat orqali o'rnatiladi?",
+    "options": [
+      {
+        "id": "A",
+        "text": "android:Color=\"#B15355\""
+      },
+      {
+        "id": "B",
+        "text": "android:textcolor=\"#DC2020\""
+      },
+      {
+        "id": "C",
+        "text": "android:id=\"#FF88FF\""
+      },
+      {
+        "id": "D",
+        "text": "android:background=\"#E3254B\""
+      }
+    ],
+    "correct": "D"
+  },
+  {
+    "question": "Fon rangi qaysi atribut orqali o'rnatiladi?",
+    "options": [
+      {
+        "id": "A",
+        "text": "android:id=\"#FF88FF\""
+      },
+      {
+        "id": "B",
+        "text": "android:textcolor=\"#DC2020\""
+      },
+      {
+        "id": "C",
+        "text": "android:background=\"#E3254B\""
+      },
+      {
+        "id": "D",
+        "text": "android:Color=\"#B15355\""
+      }
+    ],
+    "correct": "C"
+  },
+  {
+    "question": "Mobil ilova yaratishda konsepsiyani ishlab chiqish qaysi jarayonlarni o'z ichiga oladi?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Interfeysning interaktiv prototiplarini ishlab chiqish"
+      },
+      {
+        "id": "B",
+        "text": "Potensial mijozlarning ehtiyojlarini tahlil qilish"
+      },
+      {
+        "id": "C",
+        "text": "Texnik topshiriqni ishlab chiqish"
+      },
+      {
+        "id": "D",
+        "text": "Barcha javoblar to'g'ri"
+      }
+    ],
+    "correct": "D"
+  },
+  {
+    "question": "Android Runtime nimani o'z ichiga oladi?",
+    "options": [
+      {
+        "id": "A",
+        "text": "ART va kutubxonalar"
+      },
+      {
+        "id": "B",
+        "text": "Kamera"
+      },
+      {
+        "id": "C",
+        "text": "Sensor"
+      },
+      {
+        "id": "D",
+        "text": "GPS"
+      }
+    ],
+    "correct": "A"
+  },
+  {
+    "question": "Dangerous permission misoli qaysi?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Internet"
+      },
+      {
+        "id": "B",
+        "text": "Time"
+      },
+      {
+        "id": "C",
+        "text": "Camera"
+      },
+      {
+        "id": "D",
+        "text": "Vibrate"
+      }
+    ],
+    "correct": "C"
+  },
+  {
+    "question": "Bir nechta platformalar uchun birdaniga dastur yozish imkoniga ega dasturlash tillari … dasturlash tillari deyiladi?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Obyektga yo'naltirilgan"
+      },
+      {
+        "id": "B",
+        "text": "Interpretatsiya qilinadigan"
+      },
+      {
+        "id": "C",
+        "text": "Krossplatformali"
+      },
+      {
+        "id": "D",
+        "text": "Protsedurali"
+      }
+    ],
+    "correct": "C"
+  },
+  {
+    "question": "Android Studioda qilinayotgan mobil ilova loyihasida .packages faylida qanday ma'lumotlar saqlanadi?",
+    "options": [
+      {
+        "id": "A",
+        "text": "iOS ga oid kodlar"
+      },
+      {
+        "id": "B",
+        "text": "Flutter yangilanishiga oid metama'lumotlar"
+      },
+      {
+        "id": "C",
+        "text": "Kutubxona sozlamalari"
+      },
+      {
+        "id": "D",
+        "text": "Paketlar haqida qo'shimcha ma'lumotlar"
+      }
+    ],
+    "correct": "D"
+  },
+  {
+    "question": "Android Studioda tayyor bo'lgan faylni saqlash uchun qaysi buyruq bosiladi?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Debug (Shift F9)"
+      },
+      {
+        "id": "B",
+        "text": "Open (Ctrl O)"
+      },
+      {
+        "id": "C",
+        "text": "Run (Shift F10)"
+      },
+      {
+        "id": "D",
+        "text": "Save (Ctrl S)"
+      }
+    ],
+    "correct": "D"
+  },
+  {
+    "question": "Android Studioda yaratilgan loyihani yana qaysi muharrirlarda o'zgartirish va ishlatish mumkin?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Android Studio, Sublime, Notepad"
+      },
+      {
+        "id": "B",
+        "text": "Android Studio, Sublime"
+      },
+      {
+        "id": "C",
+        "text": "Android Studio, VSCode"
+      },
+      {
+        "id": "D",
+        "text": "Android Studio, IntelliJ IDEA, Eclipse"
+      }
+    ],
+    "correct": "D"
+  },
+  {
+    "question": "Boshqa klassdan voris olish uchun (Dart, Java) qaysi kalitso'z ishlatiladi?",
+    "options": [
+      {
+        "id": "A",
+        "text": "main"
+      },
+      {
+        "id": "B",
+        "text": "extends"
+      },
+      {
+        "id": "C",
+        "text": "return"
+      },
+      {
+        "id": "D",
+        "text": "runApp"
+      }
+    ],
+    "correct": "B"
+  },
+  {
+    "question": "…- bu komponentalarni bitta qatorga (gorizontal) yoki ustun (vertikal)ga joylashtirish uchun ishlatiladi?",
+    "options": [
+      {
+        "id": "A",
+        "text": "FrameLayout"
+      },
+      {
+        "id": "B",
+        "text": "TableLayout"
+      },
+      {
+        "id": "C",
+        "text": "AbsoluteLayout"
+      },
+      {
+        "id": "D",
+        "text": "LinearLayout"
+      }
+    ],
+    "correct": "D"
+  },
+  {
+    "question": "Android-ning muhim xususiyatlari qanday?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Xabar xizmatlari (SMS/MMS), veb-brauzer, ma'lumotlarni saqlash (SQLite)"
+      },
+      {
+        "id": "B",
+        "text": "Har kim Android platformasini sozlashi mumkinligi va ochiq manbaliligi"
+      },
+      {
+        "id": "C",
+        "text": "Barcha javoblar to'g'ri"
+      },
+      {
+        "id": "D",
+        "text": "Multimedia va simsiz aloqa ulanishlari (Wi-Fi, Bluetooth)"
+      }
+    ],
+    "correct": "C"
+  },
+  {
+    "question": "Bir nechta variantni birgalikda tanlash maqsadida ishlatiladigan komponenta qaysi?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Button"
+      },
+      {
+        "id": "B",
+        "text": "DatePicker"
+      },
+      {
+        "id": "C",
+        "text": "Checkbox"
+      },
+      {
+        "id": "D",
+        "text": "Text"
+      }
+    ],
+    "correct": "C"
+  },
+  {
+    "question": "… buttonga o'xshash vidjet bo'lib, rasmni tugma sifatida ishlatish mumkin?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Radio"
+      },
+      {
+        "id": "B",
+        "text": "ImageButton"
+      },
+      {
+        "id": "C",
+        "text": "Text"
+      },
+      {
+        "id": "D",
+        "text": "EditText"
+      }
+    ],
+    "correct": "B"
+  },
+  {
+    "question": "Asosan tugmachali telefonlarda ishlatilgan mobil OT ni belgilang?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Symbian"
+      },
+      {
+        "id": "B",
+        "text": "Raspbian"
+      },
+      {
+        "id": "C",
+        "text": "Debian"
+      },
+      {
+        "id": "D",
+        "text": "Windows XP"
+      }
+    ],
+    "correct": "A"
+  },
+  {
+    "question": "Matematik amallarni o'z ichiga olgan kutubxona qanday nomlanadi?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Material"
+      },
+      {
+        "id": "B",
+        "text": "Cupertino"
+      },
+      {
+        "id": "C",
+        "text": "Main"
+      },
+      {
+        "id": "D",
+        "text": "Math"
+      }
+    ],
+    "correct": "D"
+  },
+  {
+    "question": "Ma'lumotlar manzili (path) nima uchun ishlatiladi?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Ekran o'lchamiga moslashish uchun"
+      },
+      {
+        "id": "B",
+        "text": "Chaqirilgan resursning local/global adresini ko'rsatish uchun"
+      },
+      {
+        "id": "C",
+        "text": "Fayl toifasi haqida xabar berish uchun"
+      },
+      {
+        "id": "D",
+        "text": "Video formatini sozlash uchun"
+      }
+    ],
+    "correct": "B"
+  },
+  {
+    "question": "Flutter freymvorki qaysi dasturlash tiliga tegishli?",
+    "options": [
+      {
+        "id": "A",
+        "text": "C#"
+      },
+      {
+        "id": "B",
+        "text": "Dart"
+      },
+      {
+        "id": "C",
+        "text": "Python"
+      },
+      {
+        "id": "D",
+        "text": "Java"
+      }
+    ],
+    "correct": "B"
+  },
+  {
+    "question": "Bluetooth Low Energy nimasi bilan mashhur?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Video uzatish"
+      },
+      {
+        "id": "B",
+        "text": "Yuqori tezlik"
+      },
+      {
+        "id": "C",
+        "text": "Kamera ishlashi"
+      },
+      {
+        "id": "D",
+        "text": "Kam energiya sarfi"
+      }
+    ],
+    "correct": "D"
+  },
+  {
+    "question": "Android Studioda qilinayotgan mobil ilova loyihasida .gitignore faylida qanday ma'lumotlar saqlanadi?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Git bilan ishlash sozlamalari (Git e'tibor bermaydigan fayllar)"
+      },
+      {
+        "id": "B",
+        "text": "Android maxsus (native) kodlari"
+      },
+      {
+        "id": "C",
+        "text": "Flutter yangilanishiga oid metama'lumotlar"
+      },
+      {
+        "id": "D",
+        "text": "iOS ga oid kodlar"
+      }
+    ],
+    "correct": "A"
+  },
+  {
+    "question": "Battery optimization nimaga yordam beradi?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Internet tezligiga"
+      },
+      {
+        "id": "B",
+        "text": "Sensor ishlashiga"
+      },
+      {
+        "id": "C",
+        "text": "Batareya sarfini kamaytirishga"
+      },
+      {
+        "id": "D",
+        "text": "Kamera ishlashiga"
+      }
+    ],
+    "correct": "C"
+  },
+  {
+    "question": "MainActivity.java faylidagi \"TextView\" ga matn kiritish uchun activity_main.xml dagi komponenta uchun qanday funktsiya yozilgan?",
+    "options": [
+      {
+        "id": "A",
+        "text": "android:id = \"@id/Salom\""
+      },
+      {
+        "id": "B",
+        "text": "android:text = \"Salom\""
+      },
+      {
+        "id": "C",
+        "text": "android:layout_below = \"@id/TextView\""
+      },
+      {
+        "id": "D",
+        "text": "android:layout_width = \"wrap_content\""
+      }
+    ],
+    "correct": "B"
+  },
+  {
+    "question": "Flutter ilovalari qaysi platformalarda ishlashi mumkin?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Faqat Android"
+      },
+      {
+        "id": "B",
+        "text": "Android va iOS"
+      },
+      {
+        "id": "C",
+        "text": "Faqat Windows"
+      },
+      {
+        "id": "D",
+        "text": "Faqat iOS"
+      }
+    ],
+    "correct": "B"
+  },
+  {
+    "question": "… tugma hisoblanib, uni bosish orqali muayyan amalni bajarishga dasturlash mumkin?",
+    "options": [
+      {
+        "id": "A",
+        "text": "CheckBox"
+      },
+      {
+        "id": "B",
+        "text": "Radio"
+      },
+      {
+        "id": "C",
+        "text": "Button"
+      },
+      {
+        "id": "D",
+        "text": "Text"
+      }
+    ],
+    "correct": "C"
+  },
+  {
+    "question": "Android Studioda yozilgan kodni natijasi (build) ni qanday ko'rish mumkin?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Barcha javoblar to'g'ri"
+      },
+      {
+        "id": "B",
+        "text": "AVD manager orqali o'rnatilgan virtual qurilmada"
+      },
+      {
+        "id": "C",
+        "text": "Emulyator dasturlarida"
+      },
+      {
+        "id": "D",
+        "text": "USB orqali ulangan real telefonda"
+      }
+    ],
+    "correct": "A"
+  },
+  {
+    "question": "TimePickerDialog foydalanuvchiga quyidagilarni amalga oshirishga imkon beradi:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Vaqtni tanlash"
+      },
+      {
+        "id": "B",
+        "text": "Sanani belgilash"
+      },
+      {
+        "id": "C",
+        "text": "Jadval yaratish"
+      },
+      {
+        "id": "D",
+        "text": "Rasm ochish"
+      }
+    ],
+    "correct": "A"
+  },
+  {
+    "question": "Column widgeti nimaga xizmat qiladi?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Internet ulash"
+      },
+      {
+        "id": "B",
+        "text": "Sensor ishlatish"
+      },
+      {
+        "id": "C",
+        "text": "Kamera ishlatish"
+      },
+      {
+        "id": "D",
+        "text": "Vertikal joylash"
+      }
+    ],
+    "correct": "D"
+  },
+  {
+    "question": "CameraX nima?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Kamera qurilmasi"
+      },
+      {
+        "id": "B",
+        "text": "Kamera fayli"
+      },
+      {
+        "id": "C",
+        "text": "Android kamera API kutubxonasi"
+      },
+      {
+        "id": "D",
+        "text": "Kamera sensori"
+      }
+    ],
+    "correct": "C"
+  },
+  {
+    "question": "iOS uchun yozilgan kodni qanday qurilmada build qilish mumkin?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Istalgan OT o'rnatilgan qurilmada"
+      },
+      {
+        "id": "B",
+        "text": "Windows 10 o'rnatilgan kompyuterda"
+      },
+      {
+        "id": "C",
+        "text": "Faqatgina MacOS o'rnatilgan qurilmada"
+      },
+      {
+        "id": "D",
+        "text": "Istalgan Linux o'rnatilgan kompyuterda"
+      }
+    ],
+    "correct": "C"
+  },
+  {
+    "question": "Katta va kichik harflarga sezuvchanlik xususiyati qanday nomlanadi?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Crossplatform"
+      },
+      {
+        "id": "B",
+        "text": "Code folding"
+      },
+      {
+        "id": "C",
+        "text": "Case sensitive"
+      },
+      {
+        "id": "D",
+        "text": "Page case"
+      }
+    ],
+    "correct": "C"
+  },
+  {
+    "question": "MVVM nimani anglatadi?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Model View Method Manager"
+      },
+      {
+        "id": "B",
+        "text": "Model View Module"
+      },
+      {
+        "id": "C",
+        "text": "Model View ViewModel"
+      },
+      {
+        "id": "D",
+        "text": "Mobile View Model"
+      }
+    ],
+    "correct": "C"
+  },
+  {
+    "question": "ToggleButton sinfining eng ko'p ishlatiladigan usullari qanday?",
+    "options": [
+      {
+        "id": "A",
+        "text": "isChecked(), setChecked(), setOnCheckedChangeListener()"
+      },
+      {
+        "id": "B",
+        "text": "onClick(), onLongClick(), onTouch()"
+      },
+      {
+        "id": "C",
+        "text": "getText(), setText(), clearText()"
+      },
+      {
+        "id": "D",
+        "text": "start(), stop(), pause()"
+      }
+    ],
+    "correct": "A"
+  },
+  {
+    "question": "Komponentaning ichki yuqori chegarasidan bo'sh joy qoldirish uchun qaysi atributdan foydalaniladi?",
+    "options": [
+      {
+        "id": "A",
+        "text": "paddingBottom"
+      },
+      {
+        "id": "B",
+        "text": "paddingLeft"
+      },
+      {
+        "id": "C",
+        "text": "paddingTop"
+      },
+      {
+        "id": "D",
+        "text": "paddingRight"
+      }
+    ],
+    "correct": "C"
+  },
+  {
+    "question": "Android Studioda muharrir uchun mavzu (rang sxemalari) ni sozlash ketma-ketligi qanday?",
+    "options": [
+      {
+        "id": "A",
+        "text": "File → Settings → Appearance & Behavior → Appearance → Theme"
+      },
+      {
+        "id": "B",
+        "text": "File → Project Structure → Modules"
+      },
+      {
+        "id": "C",
+        "text": "Tools → SDK Manager → Appearance"
+      },
+      {
+        "id": "D",
+        "text": "View → Quick Lookup → Color Scheme"
+      }
+    ],
+    "correct": "A"
+  },
+  {
+    "question": "Android telefonlarga Play Market ilovalar magazinidan boshqa joydan ham dastur o'rnatilsa bo'ladimi?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Ha, noma'lum manbalardan ruxsat berish orqali APK fayllarni o'rnatish mumkin"
+      },
+      {
+        "id": "B",
+        "text": "Yo'q, faqat Play Market orqali o'rnatish mumkin"
+      },
+      {
+        "id": "C",
+        "text": "Faqat kompyuter orqali root qilib o'rnatiladi"
+      },
+      {
+        "id": "D",
+        "text": "Ha, lekin faqat iOS dasturlarini o'rnatish mumkin"
+      }
+    ],
+    "correct": "A"
+  },
+  {
+    "question": "Android Studioda brauzerlarni integratsiya qilish ketma-ketligi qanday?",
+    "options": [
+      {
+        "id": "A",
+        "text": "File → Settings → Tools → Web Browsers"
+      },
+      {
+        "id": "B",
+        "text": "Tools → SDK Manager → Browsers"
+      },
+      {
+        "id": "C",
+        "text": "File → Project Structure → SDKs"
+      },
+      {
+        "id": "D",
+        "text": "View → Tool Windows → Web Browser"
+      }
+    ],
+    "correct": "A"
+  },
+  {
+    "question": "…- dastur birinchi marta ishga tushganda activity ni chaqiradi?",
+    "options": [
+      {
+        "id": "A",
+        "text": "onCreate()"
+      },
+      {
+        "id": "B",
+        "text": "onStart()"
+      },
+      {
+        "id": "C",
+        "text": "onResume()"
+      },
+      {
+        "id": "D",
+        "text": "onRestart()"
+      }
+    ],
+    "correct": "A"
+  },
+  {
+    "question": "…- activity natijasi foydalanuvchiga ko'ringanda chaqiriladi?",
+    "options": [
+      {
+        "id": "A",
+        "text": "onCreate()"
+      },
+      {
+        "id": "B",
+        "text": "onStart()"
+      },
+      {
+        "id": "C",
+        "text": "onResume()"
+      },
+      {
+        "id": "D",
+        "text": "onDestroy()"
+      }
+    ],
+    "correct": "B"
+  }
+]
